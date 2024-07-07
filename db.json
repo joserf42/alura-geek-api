@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Seiya de Pegaso",
+      "price": "$80.00",
+      "image": "https://resources.claroshop.com/medios-plazavip/mkt/65467fc8a751e_cab_seiya-removebg-previewpng.jpg?scale=500&qlty=75",
+      "id": "1"
+    },
+    {
+      "name": "Shiryu de Dragón",
+      "price": "80.00",
+      "image": "https://resources.claroshop.com/medios-plazavip/mkt/65467f8adb844_cab_shiryu-removebg-previewpng.jpg?scale=500&qlty=75",
+      "id": "2"
+    },
+    {
+      "name": "Ikki de Fénix",
+      "price": "80.00",
+      "image": "https://resources.claroshop.com/medios-plazavip/mkt/65467f93dd387_cab_ikki-removebg-previewpng.jpg?scale=500&qlty=75",
+      "id": "3"
+    },
+    {
+      "name": "Shun de Andrómeda",
+      "price": "80.00",
+      "image": "https://resources.claroshop.com/medios-plazavip/mkt/65467f9a54ff5_cab_shun-removebg-previewpng.jpg?scale=500&qlty=75",
+      "id": "4"
+    },
+    {
+      "name": "Hyoga de Cisne",
+      "price": "80.00",
+      "image": "https://resources.claroshop.com/medios-plazavip/mkt/65467fc548bb8_cab_hyoga-removebg-previewpng.jpg?scale=500&qlty=75",
+      "id": "5"
+    }
+  ]
+}
